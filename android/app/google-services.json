@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "262811407579",
+    "project_id": "testreact-82e39",
+    "storage_bucket": "testreact-82e39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262811407579:android:f2a4e4edbda3686ec5a8fe",
+        "android_client_info": {
+          "package_name": "com.testreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262811407579-36l0mkn8jus0bt36n6kn8bu9jo9dnnmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testreact",
+            "certificate_hash": "492653ede4c91d62b025c0937001baa7b0801763"
+          }
+        },
+        {
+          "client_id": "262811407579-gdok3mub5vv03p7oq7kdfabsuor3gkh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBCQJHyDYwzEWe-udutmgqIhwh5fGGLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262811407579-gdok3mub5vv03p7oq7kdfabsuor3gkh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
